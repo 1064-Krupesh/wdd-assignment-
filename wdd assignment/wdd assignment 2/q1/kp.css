@@ -1,0 +1,24 @@
+*{
+    background-color:tomato;
+    border: 5px black;
+    border-radius: 20px;
+    padding: 6%;
+}
+#head{
+    background-color: rgba(0, 255, 21, 0.911);
+    color: pink;
+    margin: 6px;
+    box-sizing: border-box;
+    justify-content: center;
+    text-align: center;
+    
+    height: 75px;
+    width: 71%;
+    padding: 16px;
+}
+
+.Para{
+    background-color: rgb(53, 24, 185);
+    padding: 5%;
+    border: 3px solid;
+}
